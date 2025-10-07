@@ -1,0 +1,16 @@
+export default function Navbar() {
+  return (
+    <header className="w-full">
+      <nav className="container flex items-center justify-between py-4">
+        <div className="text-xl font-semibold tracking-wide">
+          <span className="text-accent">Renevex</span> Premium
+        </div>
+        <ul className="hidden sm:flex gap-6 text-sm text-gray-300">
+          <li><a className="hover:text-white" href="#features">Преимущества</a></li>
+          <li><a className="hover:text-white" href="#cta">Связаться</a></li>
+        </ul>
+      </nav>
+      <div className="h-px w-full bg-white/5" />
+    </header>
+  );
+}
