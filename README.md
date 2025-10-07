@@ -1,0 +1,1 @@
+# Renevex Premium\n\nNext.js (pages router) + TailwindCSS стартовый проект.\n\n## Скрипты\n- `npm run dev` — локальная разработка\n- `npm run build` — сборка\n- `npm start` — запуск prod-сборки\n\n## Деплой\n1. Залейте репозиторий на GitHub.\n2. В Vercel: New Project → Import Git Repository → Framework: Next.js → Deploy.\n

@@ -1,0 +1,1 @@
+export default function Footer(){return(<footer className="mt-12 py-8 text-center text-sm text-gray-400"><div className="h-px w-full bg-white/5 mb-6"/>© {new Date().getFullYear()} Renevex. Все права защищены.</footer>)}
